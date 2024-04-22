@@ -14,4 +14,4 @@ Sources files of my first REDkit mod which was initially made as a joke and ende
 
 ## 🔗 Contact
 
-[@NoxTGM on all socials](https://noxtgm.me)
+[contact@noxtgm.me](https://noxtgm.me)
