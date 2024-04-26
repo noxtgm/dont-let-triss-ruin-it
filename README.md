@@ -4,7 +4,7 @@ Sources files of my first REDkit mod which was initially made as a joke and ende
 ## ⚙️ Installation
 
 * Setup a new REDkit project
-* Download the files and paste them inside your `workspace` folder
+* Download the files and paste the `workspace` folder inside your REDkit mod folder
 * Startup your project and open your `Asset Browser`
 * Search for `q403_01_teleport_to_kaer_morhen.w2scene` and modify whatever you want
 
