@@ -3,6 +3,8 @@
 Sources files of my first REDkit mod which was initially made as a joke and ended up with people actually enjoying it. In the unlikely case someone wants to build upon it since I probably won't, here lies the files modified in my mod.
 </div>
 
+ [Mod page](https://www.nexusmods.com/witcher3/mods/9042)
+
 ###
 
 <div align=center style="text-align: center;"><h2>INSTALLATION</h2></div>
