@@ -20,7 +20,7 @@ Sources files of my first REDkit mod which was initially made as a joke and ende
 
 <div align=center style="text-align: center;"><h2>LICENSE</h2></div>
 
-[Mozilla Public License 2.0](https://choosealicense.com/licenses/mpl-2.0/)
+[Unlicense License](https://choosealicense.com/licenses/unlicense/)
 
 ###
 
