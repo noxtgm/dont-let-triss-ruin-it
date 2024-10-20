@@ -16,7 +16,7 @@ Are you tired of that pesky redhead going around ruining your wholesome family r
 
 ## 📄 License
 
-[The Unlicense](https://choosealicense.com/licenses/unlicense/)
+[Unlicense](https://choosealicense.com/licenses/unlicense/)
 
 ## 🔗 Links
 
