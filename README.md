@@ -1,4 +1,9 @@
 # Don't Let Triss Ruin It
+
+<p align="center">
+  <img width="60%" src="https://i.imgur.com/Vl3giic.png">
+</p>
+
 Are you tired of that pesky redhead going around ruining your wholesome family reunion? No? Well that doesn't matter because now you have the chance to experience the family reuniting without Triss ruining the moment for you!
 
 > [!NOTE]
