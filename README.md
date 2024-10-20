@@ -1,10 +1,8 @@
 # Don't Let Triss Ruin It
 Are you tired of that pesky redhead going around ruining your wholesome family reunion? No? Well that doesn't matter because now you have the chance to experience the family reuniting without Triss ruining the moment for you!
 
-[Mod page](https://www.nexusmods.com/witcher3/mods/9042)
-
 > [!NOTE]
-> Source files of my first REDkit mod which was initially made as a joke and ended up with people actually enjoying it, in case someone wants to build upon it since I probably won't, here lies the files modified by my mod.
+> Source files of my first [REDkit mod](https://www.nexusmods.com/witcher3/mods/9042) which was initially made as a joke and ended up with people actually enjoying it, in case someone wants to build upon it since I probably won't, here lies the files modified by my mod.
 
 ## Installation
 
